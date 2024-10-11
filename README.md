@@ -31,7 +31,7 @@ Natural Language Processing (NLP): NLP techniques are applied to analyze movie d
 
 TF-IDF (Term Frequency-Inverse Document Frequency): TF-IDF is a statistical measure used to evaluate the importance of a word in a document relative to a collection of documents. It is utilized to represent each movie description as a numerical vector, capturing the significance of terms within the corpus.
 
-
+![cosine similarity](https://github.com/skshajiya/Movie-Recommendation-System/blob/main/cosine%20similarity.png)
 
 
 Cosine Similarity: Cosine similarity is a metric used to measure the similarity between two vectors by computing the cosine of the angle between them. In this project, cosine similarity is applied to determine the similarity between movie descriptions and recommend similar movies based on user input.
