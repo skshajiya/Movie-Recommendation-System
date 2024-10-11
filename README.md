@@ -36,7 +36,7 @@ TF-IDF (Term Frequency-Inverse Document Frequency): TF-IDF is a statistical meas
 
 Cosine Similarity: Cosine similarity is a metric used to measure the similarity between two vectors by computing the cosine of the angle between them. In this project, cosine similarity is applied to determine the similarity between movie descriptions and recommend similar movies based on user input.
 
-
+![tf-idf](https://github.com/skshajiya/Movie-Recommendation-System)
 
 * * *
 # Implementation:
