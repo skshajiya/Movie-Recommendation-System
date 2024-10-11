@@ -1,13 +1,8 @@
 # Movie-Recommendation-System
 Movie Recommendation System using IMDB Dataset with NLP and TF-IDF
----------------------------------------------------------------------------------
+***
 # Table of Contents:
--Overview
--Dataset
--Techniques Used
--Implementation
--About Project
--DEMO
+
 
 
 # Overview:
